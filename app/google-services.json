@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "392029932247",
+    "project_id": "authentication-89b6f",
+    "storage_bucket": "authentication-89b6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392029932247:android:8ef3dc5916cf460a34be92",
+        "android_client_info": {
+          "package_name": "com.example.kotlinprojecteducationalcontentsharingplatform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392029932247-8la441jagp7efslfpktt9d4k6r4cofni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmvqcbtn0xE4iHvN3CZBcS9ORFUDE3zcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392029932247-8la441jagp7efslfpktt9d4k6r4cofni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
