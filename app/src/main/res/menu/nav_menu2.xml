@@ -8,33 +8,33 @@
         android:checkableBehavior="single">
 
         <item
-            android:id="@+id/nav_home"
+            android:id="@+id/nav_home2"
             android:icon="@drawable/baseline_home_24"
-            android:title="Home"/>
+            android:title="Home2"/>
 
         <item
-            android:id="@+id/nav_settings"
+            android:id="@+id/nav_settings2"
             android:icon="@drawable/baseline_settings_24"
-            android:title="Coding Problems"/>
+            android:title="Coding Problems2"/>
 
         <item
-            android:id="@+id/nav_share"
-            android:icon="@drawable/baseline_share_24"
-            android:title="Discussions"/>
-
-        <item
-            android:id="@+id/nav_about"
+            android:id="@+id/nav_share2"
             android:icon="@drawable/baseline_info_24"
-            android:title="Content Upload"/>
+            android:title="Discussions2"/>
+
+        <item
+            android:id="@+id/nav_about2"
+            android:icon="@drawable/baseline_share_24"
+            android:title="Content Upload2"/>
     </group>
     <item
         android:title="">
 
         <menu>
             <item
-                android:id="@+id/nav_logout"
+                android:id="@+id/nav_logout2"
                 android:icon="@drawable/baseline_exit_to_app_24"
-                android:title="Logout"/>
+                android:title="Logout2"/>
         </menu>
 
     </item>
